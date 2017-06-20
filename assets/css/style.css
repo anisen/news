@@ -1,1 +1,27 @@
 /* Holiii otra vez */
+*{
+	margin: 0;
+	padding: 0;
+}
+#h1-news span{
+	color: red;
+}
+#h1-news{
+	color: black;
+}
+.todas-a{
+	
+	padding: 10px;
+}
+.a-a{
+	color: #404040;
+	padding: 10px;
+}
+#hr-rosado{
+	background-color: #C04950;
+	height: 3px;
+}
+
+#primera-img{
+	width: 500px;
+}
